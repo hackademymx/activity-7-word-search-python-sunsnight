@@ -1,4 +1,3 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15312859&assignment_repo_type=AssignmentRepo)
 # Word Search Exercise
 
 This challenge involves finding words in an 8x8 grid. Given a string of 64 *letters* and a string of words to find, convert the string to an 8x8 array, and return `true` if _all_ words in the string can be found in the array. Return `false` otherwise. Words can be read in any direction (horizontally, vertically or diagonally).
